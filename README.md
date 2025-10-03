@@ -87,9 +87,6 @@ For full details, refer to the "Analysis Report" section in the notebook.
 
 Feel free to fork the repository and submit pull requests for improvements, such as additional ensemble methods (e.g., Gradient Boosting) or more datasets.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (or add one if needed).
 
 ## Contact
 
